@@ -25,11 +25,7 @@ PivotTables and PivotCharts were used to analyze relationships between healthcar
 ## Dashboard
 An interactive Excel dashboard was created using PivotCharts and slicers to present the healthcare analysis.
 
-## Tools Used
-- Microsoft Excel
-- PivotTables
-- PivotCharts
-- Slicers
+![Healthcare Dashboard](healthcare-dashboard.png)
 
 ## Project File
 `Healthcare-Data-Analysis-Excel.xlsx`
